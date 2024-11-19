@@ -1,4 +1,4 @@
-Using github Project management features has significantly enhanced the team collaboration and project organisation in project. milesotnes, issues and project boards clear framework for tracking the progress, assigning tasks.
+Using github Project management features helps the  project organisation in in a proper way. milesotnes, issues and project boards clear framework for tracking the progress, assigning tasks.
 Milestone helps identify critical gaols or issues. it allows the team to focus on important issue first.
 Issue task can helps the team to identify the alerts on New features and bugs.
 Team members can view project progress, and stay informed about changes.
